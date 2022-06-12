@@ -6,8 +6,9 @@ Created with CodeSandbox
 セクション 5:素の JavaScript だけで TODO アプリを作成してみよう
 
 ・メモ
-＜ ul ＞タグ直下に<div>を置くのはアンチパターン
-＜ li ＞タグ内に<div>を配置するのが正しい構造
+
+＜ ul ＞タグ直下に＜ div ＞置くのはアンチパターン
+＜ li ＞タグ内に＜ div ＞を配置するのが正しい構造
 
 ```
 <ul>
